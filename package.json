@@ -1,0 +1,25 @@
+{
+  "name": "gulp_learning",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.12.3",
+    "del": "^2.2.0",
+    "gulp": "^4.0.0-alpha.2",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cached": "^1.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-if": "^2.0.0",
+    "gulp-less": "^3.0.5",
+    "gulp-remember": "*",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deLiero",
+  "license": "ISC"
+}
